@@ -9,8 +9,11 @@ Watch this space.
 ## Features
 
 Nearly all Roland SC-55 melodic patches.
+
 SC-55 drumkits - 90% complete
+
 SFXs - work started, don't expect miracles
+
 SC-88Pro/XG/GM2 support is planned.
 
 ## Issues
