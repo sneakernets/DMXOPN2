@@ -8,9 +8,9 @@ Watch this space.
 
 ## Features
 
-Nearly all Roland SC-55 melodic patches.
+All Roland SC-55 melodic patches.
 
-SC-55 drumkits - 90% complete
+Every Roland SC-55 drumkit
 
 SFXs - work started, don't expect miracles
 
