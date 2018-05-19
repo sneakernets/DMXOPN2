@@ -12,7 +12,7 @@ All Roland SC-55 melodic patches.
 
 Every Roland SC-55 drumkit
 
-SFXs - work started, don't expect miracles
+SFXs - done ... not really to be honest.
 
 SC-88Pro/XG/GM2 support is planned.
 
