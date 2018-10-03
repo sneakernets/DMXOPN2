@@ -2,7 +2,7 @@
 No-nonsense patches for YM2612.
 
 ## About
-Idk what to write here. Started as a better alternative to Wohlstand's gm.wopn bank, nowadays it will probably serve as a basis for sneakernets' upcoming DMXOPN2. 
+This project started as a better alternative to Wohlstand's gm.wopn bank, with lots of work from @papiezak, thanks!
 
 Watch this space.
 
